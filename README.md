@@ -1,0 +1,1 @@
+# bloxfruits-autofarm-script
