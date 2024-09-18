@@ -14,22 +14,22 @@ Below we have placed for you the top and tested scripts for Blox Fruits, which a
 
 [<img src="https://github.com/BriannamiriahZekkerman/bloxfruits-autofarm-script/blob/main/dl3.png"/>](https://bit.ly/4df0YSE)
 
-1. Auto farm: The script allows the player to automatically farm for in-game resources, such as fruits or money, without the need for manual grinding.
+👉 Auto farm: The script allows the player to automatically farm for in-game resources, such as fruits or money, without the need for manual grinding.
 
-2. Teleportation: Players can teleport to different locations on the map instantly, enabling faster navigation and exploration.
+👉 Teleportation: Players can teleport to different locations on the map instantly, enabling faster navigation and exploration.
 
-3. Auto quest completion: The script can automatically complete quests for the player, saving time and effort.
+👉 Auto quest completion: The script can automatically complete quests for the player, saving time and effort.
 
-4. Auto PvP: Players can engage in PvP battles and the script will automatically execute attacks and dodge enemy attacks, increasing their chances of winning.
+👉  Auto PvP: Players can engage in PvP battles and the script will automatically execute attacks and dodge enemy attacks, increasing their chances of winning.
 
-5. Auto chest pickup: The script can automatically pick up any chests or loot that appear in the game, saving the player from having to manually collect them.
+👉  Auto chest pickup: The script can automatically pick up any chests or loot that appear in the game, saving the player from having to manually collect them.
 
-6. Auto upgrade: The script can automatically upgrade the player's abilities or items, optimizing their character's strength and performance.
+👉 Auto upgrade: The script can automatically upgrade the player's abilities or items, optimizing their character's strength and performance.
 
-7. God mode: The script can provide the player with invincibility, making them immune to damage from enemies.
+👉  God mode: The script can provide the player with invincibility, making them immune to damage from enemies.
 
-8. ESP: The script can display the location of players, enemies, and resources through walls, giving the player an advantage in finding and tracking them.
+👉 ESP: The script can display the location of players, enemies, and resources through walls, giving the player an advantage in finding and tracking them.
 
-9.  The script can increase the player's movement speed, allowing them to traverse the map quickly.
+👉 The script can increase the player's movement speed, allowing them to traverse the map quickly.
 
-10. Auto sell: The script can automatically sell unwanted items or resources, providing the player with additional in-game currency.
+👉 Auto sell: The script can automatically sell unwanted items or resources, providing the player with additional in-game currency.
